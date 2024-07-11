@@ -17,7 +17,7 @@ Welcome to my GitHub profile. I'm a Web Developer and AI-ML developer, passionat
 - Git, Github, PyCharm, VSCode, MS Office, Hugging Face, Kaggle, Postman,ChatGPT
 
 ## Projects
-- [Cloud Coverage Detection](https://github.com/Ishan130803/CCD-Cloud-Coverage-Detection): Predict Future Cloud Converages using ML/DL
+- [Cloud Coverage Detection](https://github.com/Ishan130803/CCD-Cloud-Coverage-Detection): Predict Future Cloud Coverages using ML/DL
   
 - [Semantic Segmentation](https://github.com/Ishan130803/Semantic-Segmentation-CityScapes-Dataset): Designed a novel Deep learning architecture using deep learning on the Cityscapes dataset for semantic
 understanding of the urban neighborhood
