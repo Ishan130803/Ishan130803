@@ -2,19 +2,19 @@
 # Hello, I'm Ishan Srivastava!
 
 Welcome to my GitHub profile. I'm a Web Developer and AI-ML developer, passionate about anything related to compters and especially Artificial Intelligence.
-
-Programming Skills
-  ○ Python, C/C++, SQL, Javascript, Typescript, HTML, CSS, Data Structures and Algorithm,
-➢ Machine Learning/Data Science
-  ○ Skills : CNNs, RNNs, NLP, Time Series Analysis, Computer Vision, Deep Learning, EDA, Feature Engineering
-  ○ Frameworks : Pandas, Numpy, Matplotlib, Searborn, Tensorflow, Scikit-Learn, OpenCV, Librosa, Selenium
-➢ Web Development
-  ○ Front-End Development : HTML, CSS, Javascript, React, NextJS, MUI, Syncfusion
-  ○ Back-End Development : Zod, Node.js, NextJS, Auth.js
-  ○ Database Management : Mongodb, MySQL
-  ○ Others : RESTful APIs, Responsive Designs
-➢ Utilities and Tools
-  ○ Git, Github, PyCharm, VSCode, MS Office, Hugging Face, Kaggle, Postman,ChatGPT
+## Skills
+#### Programming Skills
+- Python, C/C++, SQL, Javascript, Typescript, HTML, CSS, Data Structures and Algorithm,
+#### Machine Learning/Data Science
+- Skills : CNNs, RNNs, NLP, Time Series Analysis, Computer Vision, Deep Learning, EDA, Feature Engineering
+- Frameworks : Pandas, Numpy, Matplotlib, Searborn, Tensorflow, Scikit-Learn, OpenCV, Librosa, Selenium
+#### Web Development
+- Front-End Development : HTML, CSS, Javascript, React, NextJS, MUI, Syncfusion
+- Back-End Development : Zod, Node.js, NextJS, Auth.js
+- Database Management : Mongodb, MySQL
+- Others : RESTful APIs, Responsive Designs
+#### Utilities and Tools
+- Git, Github, PyCharm, VSCode, MS Office, Hugging Face, Kaggle, Postman,ChatGPT
 
 ## Projects
 - [Cloud Coverage Detection](https://github.com/Ishan130803/CCD-Cloud-Coverage-Detection): Predict Future Cloud Converages using ML/DL
